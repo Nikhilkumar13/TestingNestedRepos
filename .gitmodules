@@ -1,0 +1,3 @@
+[submodule "TestingNestedRepoCHild1"]
+	path = TestingNestedRepoCHild1
+	url = https://github.com/Nikhilkumar13/TestingNestedRepoCHild1.git
